@@ -12,16 +12,16 @@ paginate_path: "/blog/page:num/"
 social:
   email: 
     visibility: true
-    mail: contact@arnob.me
+    mail: mtranqua@buffalo.edu
   github: 
     visibility: true
-    handle: arnobk
+    handle: qm286
   linkedin: 
     visibility: true
-    handle: arnobkarmokar
+    handle: qm286
   twitter: 
-    visibility: true
-    handle: arnobdotme
+    visibility: false
+    handle: 
 
 # Collections
 collections:
